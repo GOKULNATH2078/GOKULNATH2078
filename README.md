@@ -66,6 +66,6 @@ Gokulnath's Community Chess Tournament
 
 
 **How this works**
-if you what to move a pieces give me a issue in respository that which piece wants to move and were to move and the maximum pieces move will movesby the requirement of moves issues is satifies. #Here https://github.com/GOKULNATH2078/GOKULNATH2078/issues
+if you what to move a pieces give me a issue in respository that which piece wants to move and were to move and the maximum pieces move will movesby the requirement of moves issues is satifies. #Here https://github.com/GOKULNATH2078/START/issues
 
 
