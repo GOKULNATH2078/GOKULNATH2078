@@ -42,10 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulnath2078&show_icons=true&locale=en&layout=compact" alt="gokulnath2078" />
 </p>
 
-<h3>Streak Stats</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulnath2078&" alt="gokulnath2078" />
-</p>
 
 Gokulnath's Community Chess Tournament
 
